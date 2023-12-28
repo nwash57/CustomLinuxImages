@@ -1,0 +1,1 @@
+ail-cli integrate /usr/appimages/OneDriveGUI.AppImage
