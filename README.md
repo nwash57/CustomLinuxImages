@@ -45,3 +45,5 @@ to spin up new custom images
 
 ## Things I didn't realize I forgot until I reinstalled
 - Balena Etcher
+- Flatpak stuff
+- Gnome Extensions

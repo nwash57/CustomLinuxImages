@@ -8,6 +8,6 @@ git checkout tags/v2.4.25
 ./configure --enable-notifications
 make clean; make;
 sudo make install
-cp onedrive /usr/share/onedrive
+sudo cp onedrive /usr/share/onedrive
 
 rm -rf /__build/onedrive-client
