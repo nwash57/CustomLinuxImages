@@ -40,6 +40,7 @@ to spin up new custom images
 - gnome-tweaks
 - Slack
 - Tidal
+- PowerShell 7
   
 
 ## Things I didn't realize I forgot until I reinstalled
