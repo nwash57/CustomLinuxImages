@@ -18,6 +18,7 @@
 - Break setup into some kind of modules, independently applicable, so it's easier 
 to spin up new custom images
 - Orchestrator
+- Nvidia drivers?
 
 ## Kernels
 - [6.6.8](./modules/kernel/6.6.8/main.sh)
@@ -33,8 +34,13 @@ to spin up new custom images
   - [1.5.3](./modules/debs/obsidian-md/1.5.3/main.sh)
 - NET 8 SDK
 - JetBrains Toolbox
-- TODO:
-  - ProtonMail Bridge
+- ProtonMail Bridge
+- Flameshot
+- Firefox Deb
+- gnome-tweaks
+- Slack
+- Tidal
+  
 
 ## Things I didn't realize I forgot until I reinstalled
 - ?
